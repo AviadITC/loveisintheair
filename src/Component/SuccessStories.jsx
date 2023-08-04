@@ -13,7 +13,7 @@ const SuccessStories = () => {
     },
     {
       name: 'Emily',
-      age: 25,
+      age: 75,
       location: 'Los Angeles',
       story: 'I find someone that cannot swimm very well, but iam still happy, thank you!',
       image: 'https://c8.alamy.com/comp/E24WHH/israeli-model-bar-refaeli-presents-we-love-for-spanish-clothing-company-E24WHH.jpg'
